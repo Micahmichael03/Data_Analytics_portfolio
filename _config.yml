@@ -1,9 +1,9 @@
 title: Michael Micah
 logo: /assets/img/michael.jpg
-description: Minimal is a theme for GitHub Pages.
-# show_downloads: true
-# google_analytics:
-theme: jekyll-theme-Midnight
+description: Transforming raw data into actionable insights.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-Time machine
 # supported themes
   # GitHub Pages supports the following themes:
                 # Architect
